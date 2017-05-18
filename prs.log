@@ -350,3 +350,19 @@
   ],
   "documentation_url": "https://developer.github.com/v3/pulls/#create-a-pull-request"
 }
+{
+  "message": "Validation Failed",
+  "errors": [
+    {
+      "resource": "PullRequest",
+      "field": "base",
+      "code": "invalid"
+    },
+    {
+      "resource": "PullRequest",
+      "field": "head",
+      "code": "invalid"
+    }
+  ],
+  "documentation_url": "https://developer.github.com/v3/pulls/#create-a-pull-request"
+}
