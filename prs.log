@@ -339,3 +339,14 @@
   ],
   "documentation_url": "https://developer.github.com/v3/pulls/#create-a-pull-request"
 }
+{
+  "message": "Validation Failed",
+  "errors": [
+    {
+      "resource": "PullRequest",
+      "code": "custom",
+      "message": "No commits between mariusae:master and andrelaszlo:master"
+    }
+  ],
+  "documentation_url": "https://developer.github.com/v3/pulls/#create-a-pull-request"
+}
